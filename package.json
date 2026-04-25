@@ -1,7 +1,7 @@
 {
   "name": "vite-react-typescript-starter",
   "version": "0.0.0",
-  "homepage": "https://SugarRushCandyCo.github.io/EchoAI-SM",
+  "homepage": "https://sugarrushcandyco.github.io/EchoAI-SM",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
